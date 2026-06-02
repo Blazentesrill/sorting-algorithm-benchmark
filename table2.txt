@@ -1,0 +1,6 @@
+N = 100,000        |Merge Sort | Quick Sort | Insertion Sort
+Ascending Input    |1668928    | 4999950000 | 99999              
+Descending Input   |1668928    | 4999950000 | 5000049999                    
+Shuffle Input      |1668928    | 1376201    | 2499440321   
+Random Input       |1668928    | 1661000    | 2492525283
+Equal Input        |1668928    | 4999995000 | 2497365817
